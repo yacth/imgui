@@ -14,6 +14,7 @@ examples/*/x64/*
 
 bin/*
 bin-int/*
+examples/*
 
 ## Visual Studio artifacts
 .vs
